@@ -231,6 +231,8 @@ li span {
     max-width: 600px;
     border-radius: 15px;
     margin-bottom: 0.6rem;
+    
+    margin-right: 0.6rem;
     font-size: 1.2rem;
   }
 
@@ -238,6 +240,8 @@ li span {
     width: 100%;
     max-width: 600px;
     border-radius: 15px;
+    
+    margin-right: 0.6rem;
     font-size: 1.2rem;
   }
 
