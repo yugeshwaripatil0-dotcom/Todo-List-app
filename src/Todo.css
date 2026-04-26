@@ -227,7 +227,7 @@ li span {
   }
 
   form input {
-    width: 55%;           
+    width: 100%;           
     max-width: 600px;
     border-radius: 15px;
     margin-bottom: 0.6rem;
@@ -235,7 +235,7 @@ li span {
   }
 
   form button {
-    width: 55%;
+    width: 100%;
     max-width: 600px;
     border-radius: 15px;
     font-size: 1.2rem;
